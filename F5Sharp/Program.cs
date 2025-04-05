@@ -2,7 +2,7 @@
 using F5Sharp;
 using TorchSharp;
 
-public class Test
+public class Program
 {
     public static void Test()
     {
